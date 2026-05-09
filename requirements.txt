@@ -1,0 +1,21 @@
+# Machine Learning & Optimization
+xgboost
+lightgbm
+catboost
+scikit-learn
+cvxpy
+
+# Data Handling & Analysis
+pandas
+numpy
+openpyxl
+
+# APIs & Networking
+requests
+openmeteo-requests
+requests-cache
+retry-requests
+
+# Visualization & Utils
+matplotlib
+holidays
