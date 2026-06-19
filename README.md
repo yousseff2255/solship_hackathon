@@ -1,8 +1,6 @@
----
 # ⚡ Energy AI Forecaster & Battery Optimizer
 
-Welcome to the repository for the **Energy AI Management System**! This project was developed during a high-frequency Energy AI Hackathon to tackle two critical challenges in smart grid management: accurately forecasting electricity load and executing an optimal battery dispatch strategy using predictive control.
----
+## Welcome to the repository for the **Energy AI Management System**! This project was developed during a high-frequency Energy AI Hackathon to tackle two critical challenges in smart grid management: accurately forecasting electricity load and executing an optimal battery dispatch strategy using predictive control.
 
 ## 🏗️ System Architecture
 
